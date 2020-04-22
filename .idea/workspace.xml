@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3fc5d1-ef2e-415c-aaec-2e38a1c3ec35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHPExcel/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RaISKa3p72AZVE4YeZUmrfv93k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hospital" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be3fc5d1-ef2e-415c-aaec-2e38a1c3ec35" name="Default Changelist" comment="" />
+      <created>1569898779347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569898779347</updated>
+      <workItem from="1569898783381" duration="26000" />
+      <workItem from="1569976798623" duration="26497000" />
+      <workItem from="1570062633341" duration="22970000" />
+      <workItem from="1570322373223" duration="27273000" />
+      <workItem from="1570408667503" duration="27173000" />
+      <workItem from="1570495238479" duration="20364000" />
+      <workItem from="1570580968249" duration="28037000" />
+      <workItem from="1570666771065" duration="25553000" />
+      <workItem from="1570926545247" duration="8949000" />
+      <workItem from="1571012823827" duration="15475000" />
+      <workItem from="1571101087692" duration="22313000" />
+      <workItem from="1571186359795" duration="9797000" />
+      <workItem from="1571197229325" duration="6584000" />
+      <workItem from="1571272280744" duration="13311000" />
+      <workItem from="1571531500196" duration="24485000" />
+      <workItem from="1571617919792" duration="18663000" />
+      <workItem from="1571704643141" duration="21245000" />
+      <workItem from="1571790598450" duration="3626000" />
+      <workItem from="1571883996644" duration="7290000" />
+      <workItem from="1571925058674" duration="8823000" />
+      <workItem from="1571977236515" duration="12062000" />
+      <workItem from="1572004438030" duration="7425000" />
+      <workItem from="1572051290923" duration="7176000" />
+      <workItem from="1572096834962" duration="5869000" />
+      <workItem from="1572222273121" duration="21429000" />
+      <workItem from="1572312167613" duration="9059000" />
+      <workItem from="1572395143373" duration="10622000" />
+      <workItem from="1572415249439" duration="8929000" />
+      <workItem from="1572484382689" duration="10043000" />
+      <workItem from="1572496712047" duration="10789000" />
+      <workItem from="1572741373270" duration="10221000" />
+      <workItem from="1572752400391" duration="13501000" />
+      <workItem from="1572827591896" duration="823000" />
+      <workItem from="1572830986248" duration="6444000" />
+      <workItem from="1572840923040" duration="83000" />
+      <workItem from="1572841072511" duration="3811000" />
+      <workItem from="1572913860783" duration="10079000" />
+      <workItem from="1572924507300" duration="11321000" />
+      <workItem from="1573000165427" duration="23082000" />
+      <workItem from="1573086207429" duration="21290000" />
+      <workItem from="1573130317339" duration="5097000" />
+      <workItem from="1573267582157" duration="601000" />
+      <workItem from="1573433639195" duration="1390000" />
+      <workItem from="1573440693253" duration="5715000" />
+      <workItem from="1573518583376" duration="8676000" />
+      <workItem from="1573606109195" duration="6686000" />
+      <workItem from="1573692132477" duration="3283000" />
+      <workItem from="1573722768855" duration="18000" />
+      <workItem from="1573954653457" duration="11834000" />
+      <workItem from="1574039374731" duration="2012000" />
+      <workItem from="1574057241047" duration="8583000" />
+      <workItem from="1574123029401" duration="14013000" />
+      <workItem from="1574212049592" duration="2570000" />
+      <workItem from="1574316639328" duration="5194000" />
+      <workItem from="1574556756789" duration="11806000" />
+      <workItem from="1574642032593" duration="15588000" />
+      <workItem from="1574727229596" duration="20124000" />
+      <workItem from="1574815048461" duration="19371000" />
+      <workItem from="1574901375769" duration="13195000" />
+      <workItem from="1574916209433" duration="5247000" />
+      <workItem from="1575161751914" duration="140000" />
+      <workItem from="1575165555371" duration="1122000" />
+      <workItem from="1575174231774" duration="5621000" />
+      <workItem from="1575249699998" duration="7602000" />
+      <workItem from="1575333794241" duration="6403000" />
+      <workItem from="1575419376453" duration="3731000" />
+      <workItem from="1575516602085" duration="781000" />
+      <workItem from="1575851866233" duration="694000" />
+      <workItem from="1575853260372" duration="6124000" />
+      <workItem from="1575955896732" duration="3609000" />
+      <workItem from="1575966100803" duration="123000" />
+      <workItem from="1576024698042" duration="4659000" />
+      <workItem from="1576120946515" duration="1216000" />
+      <workItem from="1576458715465" duration="1741000" />
+      <workItem from="1576544519702" duration="2102000" />
+      <workItem from="1576629018418" duration="1443000" />
+      <workItem from="1576648135213" duration="1225000" />
+      <workItem from="1576974263838" duration="6118000" />
+      <workItem from="1576982177026" duration="13509000" />
+      <workItem from="1577063660745" duration="4501000" />
+      <workItem from="1577082481845" duration="3566000" />
+      <workItem from="1577156479630" duration="5227000" />
+      <workItem from="1577167083710" duration="2000000" />
+      <workItem from="1577319805602" duration="2390000" />
+      <workItem from="1577579868291" duration="2090000" />
+      <workItem from="1577586285926" duration="1383000" />
+      <workItem from="1577952078688" duration="353000" />
+      <workItem from="1577971524213" duration="1920000" />
+      <workItem from="1583987958550" duration="1317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Notifications" timestamp="1576981646166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576981646166" />
+    <state x="363" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577323895998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1577323895998" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1577973518570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577973518570" />
+    <state x="518" y="286" key="NewPhpFileDialog" timestamp="1576996136916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1576996136916" />
+    <state x="237" y="17" key="SettingsEditor" timestamp="1575860318757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575860318757" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583992383305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583992383305" />
+  </component>
+</project>

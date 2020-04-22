@@ -1,0 +1,10 @@
+http://172.16.1.5/booking_system/
+
+requester details:
+username: sufi
+password: Aa111111
+
+
+admin details:
+usernme: admin exec
+password: Intern05
