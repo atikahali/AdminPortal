@@ -33,7 +33,7 @@ if(isset($_POST['register'])) {
         echo "<script>alert('Please use epicgroup email');</script>";
         redirect("index.php");
     }
-    //Check Booking Exist
+    //Check User Exist
     $query = "SELECT EmployeeNo FROM tblusers WHERE EmployeeNo = '$EmployeeNo'";
 
     $result = mysql_query($query);
